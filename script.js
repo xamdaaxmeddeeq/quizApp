@@ -84,5 +84,8 @@ function selectAnswer(e){
 
 startQuiz();
 
+function name(params) {
+    
+}
 
 
